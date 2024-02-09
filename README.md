@@ -4,6 +4,7 @@ This is a simple GUI that uses Zenity to merge split XCI files from Nintendo Swi
 (Currently only supports .xc files, any assistance for other files would be greatly appreciated!)
 
 **Requirements**
+
 The only thing required is Zenity.
 
 **Instructions**
